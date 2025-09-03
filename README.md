@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hola, Soy Diego 👋 👨‍💻
 
+Soy estiante de la carrera Ingeniera en sistemas de la ORT, anteriormente curse en la UDELAR. 
+Trabajo en DINAGUA y en CIEMSA como desarrollador.  
+
+* 🔭 Tecnologias mas usadas:
+    * Lenguajes y frameworks: Java, Springboot, Geoserver.
+    * Servidores: wildfly, tomcat.
+    * Base de datos: Postgres + postgis usado para tablas geometricas
+* 👯 Hobby: Caminar, practicar taekwondo y ver series. 
+* 📫 Perfil: [Linkedin](https://www.linkedin.com/in/diego-velacci-307528a9/)
 <!--
 **ccizquez/ccizquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
